@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Patient Safety Standard",
+    "source": "AAAHC",
+    "section": "1.A",
+    "contentText": "The organization must maintain a comprehensive patient safety program that includes incident reporting, analysis, and corrective actions. All staff must be trained in patient safety protocols and participate in continuous improvement activities."
+  },
+  {
+    "title": "Quality Management Standard",
+    "source": "AAAHC", 
+    "section": "1.B",
+    "contentText": "The organization shall implement a quality management system that monitors clinical outcomes, patient satisfaction, and adherence to evidence-based practices. Regular quality assessments must be conducted and documented."
+  },
+  {
+    "title": "Clinical Records Management",
+    "source": "AAAHC",
+    "section": "2.A", 
+    "contentText": "Patient clinical records must be maintained in a secure, organized manner with appropriate access controls. Records must be complete, accurate, legible, and include all relevant clinical information and treatment plans."
+  },
+  {
+    "title": "Infection Prevention and Control",
+    "source": "AAAHC",
+    "section": "3.A",
+    "contentText": "The organization must establish and maintain an infection prevention and control program that includes policies for hand hygiene, equipment sterilization, environmental cleaning, and outbreak management."
+  },
+  {
+    "title": "Staff Credentialing and Privileging", 
+    "source": "AAAHC",
+    "section": "4.A",
+    "contentText": "All clinical staff must be properly credentialed and privileged according to their scope of practice. The organization must verify education, training, licensure, and competency on an ongoing basis."
+  }
+]
