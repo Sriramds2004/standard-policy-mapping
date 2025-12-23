@@ -8,6 +8,8 @@ A comprehensive full-stack application for managing healthcare policies and stan
 
 ## 🏗️ Architecture
 
+📊 **[View Full Architecture Diagram](ARCHITECTURE.md)** - Comprehensive visual documentation with Mermaid diagrams
+
 - **Frontend**: React + Vite (http://localhost:5173)
 - **Backend**: Node.js + Express (http://localhost:5000)
 - **AI Engine**: TF-IDF-based semantic similarity
